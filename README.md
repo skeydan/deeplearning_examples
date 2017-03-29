@@ -1,1 +1,1 @@
-# deeplearning_examples
+Simple deep learning example code using bare numpy, PyTorch, and TensorFlow.
